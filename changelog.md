@@ -17,3 +17,6 @@
 
 ### v6 - 2025/11/10
 * change app locations
+
+### v7 - 2025/12/31
+* fix config files
